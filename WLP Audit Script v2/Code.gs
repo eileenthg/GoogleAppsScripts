@@ -10,20 +10,8 @@
 
 
 // ── CONFIG ──────────────────────────────────────────────────
-const WLP_FOLDER_ID = '1k5EJb5Zy1D8DX1H1Sj7FDaCTnbQ0majn';
+const WLP_FOLDER_ID = 'REDACTED';
 
-// All folders 1_vzIv8_oO6Sota1i3ZoQT13i3esiVIEQ
-// Foundation 1k5EJb5Zy1D8DX1H1Sj7FDaCTnbQ0majn
-// Primary folder 1QMxCwZ-wIVblJz2-zsDRqdedTjzBDw-f
-// Lower primary 1RF9Te6qY25tZMF8dU_W0Q02sRpkeo6Tk
-// Upper primary 1UG-4jPlheLwpoB0uY-VrMV19UdF9RXJE
-// Secondary folder 1sQXG3S5HENujFsG6xziaIYqpHnbxYVmO
-// Lower secondary 1lpOk4FAgobqSyu_iiUvxpAXqBUnsxh-u
-// Upper secondary 1XwR2VspZpmxqOzaPDfV3BlqwaWNCMRWq
-
-// Just ICT 1nDJ7lSpODrsgxi-tXt7WjG5ppbew7HUe
-
-//'1_vzIv8_oO6Sota1i3ZoQT13i3esiVIEQ';
 
 // Naming convention: [Class]_WLP_[Subject]_T[N]_AY25-26_VIS
 // Both .xlsx and Google Sheets native format are acceptable.
