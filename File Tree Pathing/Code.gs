@@ -19,7 +19,7 @@
  * ============================================================
  */
 
-const ROOT_FOLDER_ID = '0ANAtVEuavKC6Uk9PVA';
+const ROOT_FOLDER_ID = 'REDACTED';
 const PROCESS_FN_NAME = 'processNextFolder';
 const TIME_BUDGET_MS = 5 * 60 * 1000; // 5 min - buffer under the 6 min cap
 const TRIGGER_DELAY_MS = 60 * 1000;   // ~1 min between batches
